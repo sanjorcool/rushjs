@@ -1,0 +1,2 @@
+# rushjs
+learning rushjs
